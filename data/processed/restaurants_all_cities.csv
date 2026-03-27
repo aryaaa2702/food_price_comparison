@@ -1,0 +1,41 @@
+name,area,rating,costForTwo,cuisines,veg,city
+Pizza Hut,Janpath,4.3,350,Pizzas,,Delhi
+Domino's Pizza,Connaught Place,4.4,400,"Pizzas, Italian, Pastas, Desserts",,Delhi
+KFC,Connaught Place,4.5,400,"Burgers, Rolls & Wraps, Fast Food",,Delhi
+Subway,Connaught Place,4.3,350,"sandwich, Salads, wrap, Healthy Food",,Delhi
+McDonald's,Kasturba Gandhi Marg,4.5,400,"American, Fast Food",,Delhi
+Burger King,Connaught Place,4.4,350,"Burgers, American",,Delhi
+Cheesecake & Co.,Asaf Ali Road,4.7,300,"Bakery, Desserts",True,Delhi
+Theobroma,Connaught Place,4.6,400,"Bakery, Desserts",,Delhi
+The Belgian Waffle Co.,Connaught Place,4.6,200,"Waffle, Desserts, Ice Cream",,Delhi
+Wow! Momo,Rajiv Chowk Metro Station,4.2,300,"Momos, Chinese, fastfood, Asian, Beverages",,Delhi
+Oven Story Pizza,Gandhi Market,4.2,400,"Pizzas, Pastas, Italian, Desserts, Beverages",,Delhi
+Natural Ice Cream,Connaught Place,4.7,150,"Ice Cream, Desserts",,Delhi
+Havemore Restaurant,Pandara Road,4.4,1000,Indian,,Delhi
+Chicken Inn- Pandara Road Since 1960,Pandara Road,4.7,800,"Mughlai, Tandoor, North Indian",,Delhi
+Salad Days,Gole Market,4.6,600,Salads,,Delhi
+L'Opera,Khan Market,4.7,600,"Bakery, Cafe, French, Desserts, Continental",,Delhi
+Taco Bell,Connaught Place,4.6,300,"Mexican, Fast Food, Snacks",,Delhi
+Berco's -If You Love Chinese,Connaught Place,4.5,600,"Chinese, Thai, Asian",,Delhi
+Ghar ka Khana by EatFit,GOLE MARKET,4.0,250,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani, Maharashtrian, Snacks, Desserts",,Delhi
+Burger Singh(Big Punjabi Burgers),Connaught Place,4.4,300,"Snacks, Fast Food, Indian, American, Beverages, Desserts, Mughlai, North Indian, Biryani",,Delhi
+Pizza Hut,Bandra Kurla Complex,4.2,300,Pizzas,,Mumbai
+Chinese Wok,Santacruz East,4.3,250,"Chinese, Asian, Tibetan, Desserts",,Mumbai
+Burger King,Santacruz East,4.3,350,"Burgers, American",,Mumbai
+ZAZA Mughal Biryani,Kurla West,4.4,250,"Biryani, North Indian, Awadhi",,Mumbai
+Subway,Bandra East,4.2,350,"sandwich, Salads, wrap, Healthy Food",,Mumbai
+McDonald's,Santacruz East,4.5,400,"Burgers, Beverages, Cafe, Desserts",,Mumbai
+"WeFit - Protein Bowls, Salads & Sandwiches",Malad West,4.7,250,"Healthy Food, Salads, Keto, Snacks",,Mumbai
+KFC,Kurla West,4.2,400,"Burgers, Fast Food, Rolls & Wraps",,Mumbai
+Harvest Salad Co,Scruz Bandra East,4.6,500,"Salads, Healthy Food, Snacks",,Mumbai
+Maiz Mexican Kitchen,BKC,4.6,600,"Mexican, Italian, American",,Mumbai
+Daily Kitchen - Everyday Homely Meals,Kurla West,4.5,250,"Home Food, Indian, North Indian, Thalis",,Mumbai
+Good Flippin' Burgers,Santacruz East,4.6,600,"Burgers, American, Fast Food, Beverages",,Mumbai
+Charcoal Eats - Biryani & Beyond,"SANTACRUZ EAST, Kalina",4.3,499,"Biryani, Kebabs, North Indian, Mughlai",,Mumbai
+Dum Safar Biryani,Scruz Bandra East,3.9,500,"Biryani, Kebabs, North Indian, Barbecue",,Mumbai
+HRX by EatFit,Santacruz East,4.6,450,"Healthy Food, Salads, Burgers",,Mumbai
+Persian Darbar,Bandra Kurla Complex,4.3,1800,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",,Mumbai
+Nara Thai,Bandra Kurla Complex,4.6,1000,"Asian, Thai, Pan-Asian",,Mumbai
+Bombay Sweet Shop,Scruz Bandra East,4.6,700,"Sweets, Desserts, Snacks",True,Mumbai
+Hangout Cakes & More,Santacruz East,4.4,150,"Cakes & Pastries, Desserts, Bakery",True,Mumbai
+Pret A Manger,Jio World Plaza,4.4,600,"Cafe, Snacks, Salads, Desserts, Beverages",,Mumbai
